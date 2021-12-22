@@ -1,0 +1,131 @@
+body {
+  background-color: #ededed;
+}
+
+#sedans {
+  margin-top: 150px;
+  width: 20%;
+  height: 400px;
+  background-color: red;
+  float:left;
+  display: block;
+  background-color: #eba000;
+  margin-left: 15%;
+  padding: 20px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+#sedan_logo {
+  margin-top: 35px;
+  margin-left: 25px;
+}
+
+.hurile {
+  font-family: Arial Narrow, sans-serif;
+  margin-left: 25px;
+  margin-bottom: 35px;
+  color:white;
+}
+
+.purile {
+  font-family: Didot, serif;
+  margin-left: 25px;
+  margin-right: 25px;
+  font-size: 18px;
+  color:white;
+}
+
+#p2{
+  font-family: Didot, serif;
+  margin-left: 25px;
+  margin-right: 25px;
+  font-size: 18px;
+  color:white;
+}
+#p3 {
+  font-family: Didot, serif;
+  margin-left: 25px;
+  margin-right: 25px;
+  font-size: 18px;
+  color:white;
+}
+
+.learn_more {
+  border-radius: 30px;
+  border: 3px solid white;
+  padding: 15px;
+  margin-left: 25px;
+  margin-top: 50px;
+  margin-bottom: 25px;
+  text-align: center;
+  font-size: 19px;
+  font-family: FreeMono, monospace;
+  background-color: #eba000
+}
+
+#p0 {
+  color:white;
+}
+/*----------------------------------------------------------------*/
+
+#suv {
+  margin-top: 150px;
+  width: 20%;
+  height: 400px;
+  background-color: #00707d;
+  float:left;
+  display: block;
+  padding: 20px;
+}
+.learn_more_a1 {
+  background-color: #00707d;
+  border-radius: 30px;
+  border: 3px solid white;
+  padding: 15px;
+  margin-left: 25px;
+  margin-top: 50px;
+  margin-bottom: 25px;
+  text-align: center;
+  font-size: 19px;
+  font-family: FreeMono, monospace;
+  color: white;
+}
+
+#suvs_logo {
+  float: left;
+  margin-top: 35px;
+  padding-right: 20px;
+  display: block;
+}
+
+
+#luxury {
+  margin-top: 150px;
+  float: left;
+  width: 20%;
+  height: 400px;
+  background-color: #00353b;
+  display: block;
+  padding: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.learn_more_a2 {
+  background-color: #00353b;
+  border-radius: 30px;
+  border: 3px solid white;
+  padding: 15px;
+  margin-left: 25px;
+  margin-top: 50px;
+  margin-bottom: 25px;
+  text-align: center;
+  font-size: 19px;
+  font-family: FreeMono, monospace;
+  color: white;
+}
+
+.learn_more_a2.hover {
+  background-color: red;
+}
